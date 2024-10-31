@@ -1,0 +1,316 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+.s-info {
+    display: block !important;
+    font-size: 11px;
+    color: #808080;
+    margin: 5px 10px 0 0;
+}
+
+.sebastian-form > p.submit {
+    display: block;
+    margin: 20px;
+    margin-bottom: 0;
+    text-align: left;
+}
+
+.sebastian-clear:before, .sebastian-clear:after {
+	content: " ";
+	display: table;
+}
+
+.sebastian-clear:after {
+	clear: both;
+}
+
+.sebastian-menu-page-wrapper.wrap {
+    margin: 0;
+    margin-left: -20px;
+}
+
+.sebastian-flex {
+	-js-display: flex;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -moz-box;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	-moz-box-align: center;
+	-ms-flex-align: center;
+	align-items: center;
+	-webkit-flex-wrap: wrap;
+	-ms-flex-wrap: wrap;
+	flex-wrap: wrap;
+	-webkit-align-content: center;
+	-ms-flex-line-pack: center;
+	align-content: center;
+}
+
+.form-field p.sebastian-p {
+	margin: 1em 0;
+}
+
+#poststuff .sebastian-intro-col h2 {
+	font-size: 18px;
+    padding-left: 0;
+}
+
+.sebastian-container img.sebastian-radix-img {
+    width: 100%;
+    margin-bottom: -2px;
+    outline: none;
+}
+
+.sebastian-container a:focus {
+    outline: none;
+}
+
+.sebastian-intro-section {
+	padding: 20px;
+}
+
+.sebastian-intro-section .sebastian-intro-icon {
+	margin-right: 8px;
+	width: 25px;
+	height: 25px;
+	font-size: 25px;
+}
+
+.sebastian-title .sebastian-plugin-version {
+	background-color: #e5e5e5;
+    border-radius: 3px;
+    font-size: 0.5em;
+    font-weight: 400;
+    margin-left: 10px;
+    padding: 2px 7px;
+    color: #333;
+}
+
+.sebastian-title .sebastian-plugin-description {
+    display: contents;
+    font-size: 0.5em;
+    font-weight: 400;
+    color: #333;
+}
+
+.sebastian-container div.notice, .sebastian-container div.updated, .sebastian-container div.error {
+    margin-top: 0;
+}
+
+.sebastian-container {
+	max-width: 1200px;
+	margin: 0 auto;
+	padding: 0 20px;
+	box-sizing: border-box;
+}
+
+#sebastian-menu-page .sebastian-notice {
+    max-width: 860px;
+    margin: 0 auto;
+    line-height: initial;
+    margin-bottom: 15px;
+}
+
+.sebastian-menu-page-wrapper a {
+	text-decoration: none;
+}
+
+.sebastian-bulk-actions-wrap {
+	flex: auto;
+	text-align: right;
+}
+
+.sebastian-general-list .inside {
+	padding: 0;
+	margin: 0;
+}
+
+.sebastian-form > .form-table {
+    padding: 10px;
+    margin: 0;
+}
+
+.sebastian-form > .form-table th { 
+    width: 150px;
+}
+
+.sebastian-form > .form-table tbody tr {
+    display: block;
+	align-content: center;
+	padding: 5px 20px;
+	-moz-box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.1) inset;
+	-webkit-box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.1) inset;
+	box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.1) inset;
+	margin-bottom: 0;
+}
+
+.sebastian-form > .form-table tbody tr:nth-child(even) {
+	background-color: #fbfbfb;
+}
+
+.sebastian-form > .form-table tbody tr a {
+	text-decoration: none;
+}
+
+.sebastian-widget-link-wrapper {
+	-js-display: flex;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -moz-box;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	-moz-box-align: center;
+	-ms-flex-align: center;
+	align-items: center;
+	-webkit-flex-wrap: wrap;
+	-ms-flex-wrap: wrap;
+	flex-wrap: wrap;
+	-webkit-align-content: center;
+	-ms-flex-line-pack: center;
+	align-content: center;
+	display: -webkit-flex;
+	-webkit-flex-direction: row-reverse;
+	flex-direction: row-reverse;
+	flex: auto;
+}
+
+.sebastian-form > .form-table tbody tr a:before {
+	display: inline-block;
+	margin-right: 2px;
+	font: normal 20px/1 'dashicons';
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	vertical-align: top;
+}
+
+.sebastian-widget-link-wrapper a:nth-child(even) {
+	margin: 0 10px;
+}
+
+.sebastian-container .postbox .hndle {
+	cursor: unset;
+	background: #f7f7f7;
+	border-bottom: 2px solid #e6e6e6;
+}
+.sebastian-container .postbox ul{
+	margin: 0;
+}
+.sebastian-form > .form-table tbody tr a{
+	line-height: 1.6;
+}
+.sebastian-form > .form-table tbody tr a:focus{
+	box-shadow: none;
+}
+
+/* Update icon. */
+.sebastian-widget-link-wrapper a.updating-message:before {
+	color: #f56e28;
+	content: "\f463";
+}
+
+/* Spins the update icon. */
+.sebastian-widget-link-wrapper a.updating-message:before {
+	-webkit-animation: rotation 2s infinite linear;
+	animation: rotation 2s infinite linear;
+}
+
+.settings_page_uag  #wpcontent{
+	padding: 0;
+}
+
+/* Header */
+.sebastian-menu-page-header.general .sebastian-container,
+.sebastian-container.sebastian-general {
+	max-width: 930px;
+}
+
+.sebastian-title {
+	flex: auto;
+	align-content: flex-start;
+	text-align: left;
+	margin: 15px 0;
+}
+
+.sebastian-title a,
+.sebastian-title span {
+	display: block;
+	outline: none;
+	box-shadow: none;
+	font-size: 1.4rem;
+	color: #333333;
+	font-weight: 500;
+}
+
+.sebastian-title > a {
+	display: flex;
+    align-items: center;
+}
+
+.sebastian-header-icon {
+    width: 44px;
+    margin-right: 10px;
+    vertical-align: bottom;
+    border-radius: 22px;
+}
+
+.sebastian-top-links {
+	flex: auto;
+	text-align: right;
+	font-weight: bold;
+}
+
+.sebastian-menu-page-header {
+	background-color: #fff;
+	text-align: center;
+	padding: 5px 0;
+	margin-bottom: 20px;
+	box-shadow: 0 2px 0 #efefef, 0 2px 2px #ececec;
+}
+
+/* White Label link*/
+.sebastian-form > .form-table tbody tr .sebastian-white-label{
+	border-left: 3px solid #008ec2;
+	padding-left: 12px;
+}
+
+/* Integration */
+.sebastian-integration-wrapper #poststuff {
+	width: 640px;
+	margin: 0 auto;
+	min-width: 640px;
+}
+
+.sebastian-integration-form-wrap .form-field select {
+	border-style: solid;
+    border-width: 1px;
+    width: 95%;
+}
+
+/* Spinner */
+.sebastian-button-spinner:before {
+	font: normal 20px/.5 dashicons;
+	speak: none;
+	display: inline-block;
+	padding: 0;
+	top: 8px;
+	left: -4px;
+	position: relative;
+	vertical-align: top;
+	content: "\f463";
+}
+
+.sebastian-button-spinner.loading:before {
+	-webkit-animation: rotation 1s infinite linear;
+	animation: rotation 1s infinite linear;
+}
+
+.sebastian-reusable-block-link > span {
+	vertical-align: text-top;
+}

@@ -1,0 +1,125 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Sebastian Wordpress\n"
+"Language: en\n"
+
+#: 
+msgid "general_settings"
+msgstr "General Settings"
+
+#: 
+msgid "sebastian_shortest_description"
+msgstr "Sebastian is a simple Wordpress plugin that allows you to surprise your visitors. Like easter eggs."
+
+#: 
+msgid "status"
+msgstr "Status"
+
+#: 
+msgid "alert_message"
+msgstr "Alert Message"
+
+#: 
+msgid "redirect_link"
+msgstr "Redirect Link"
+
+#: 
+msgid "active"
+msgstr "Active"
+
+#: 
+msgid "passive"
+msgstr "Passive"
+
+#: 
+msgid "debug_mode_description"
+msgstr "If activated, the dot will be bigger than normal."
+
+#: 
+msgid "dot_color"
+msgstr "Dot Color"
+
+#: 
+msgid "debug_mode"
+msgstr "Debug Mode"
+
+#: 
+msgid "enabled"
+msgstr "Enabled"
+
+#: 
+msgid "disabled"
+msgstr "Disabled"
+
+#: 
+msgid "sebastian_logo_description"
+msgstr "Easter-egg plugin."
+
+#: 
+msgid "developed_by"
+msgstr "Developed by"
+
+#: 
+msgid "welcome_title"
+msgstr "We are happy to see you here!"
+
+#: 
+msgid "welcome_text"
+msgstr "Sebastian is a simple plugin that allows you to surprise your visitors. Like easter eggs. When you activate the plugin, sebastian dot which is 1px to 1px travels in your Wordpress pages randomly. If the visitor mouseover the traveling dot in the website then you can show-up an alert with your custom message or redirect the visitor to the custom url."
+
+#: 
+msgid "box_1_title"
+msgstr "What do we do?"
+
+#: 
+msgid "box_1_description"
+msgstr "We are especially working on web, mobile application and Wordpress development projects."
+
+#: 
+msgid "meet_radix_works_now"
+msgstr "Meet Radix Works Now"
+
+#: 
+msgid "box_2_title"
+msgstr "Frequently Asked Questions"
+
+#: 
+msgid "faq_1_title"
+msgstr "How can I hide the Sebastian?"
+
+#: 
+msgid "faq_1_description"
+msgstr "There is two way to do that. First, go to settings page of Sebastian, then check the \"passive\" option, then save. Second, you can always disable the plugin."
+
+#: 
+msgid "faq_2_title"
+msgstr "What happens if the alert message and redirect link are filled?"
+
+#: 
+msgid "faq_2_description"
+msgstr "As I mention it in the settings page of the plugin, if you want to show up the alert, you have to leave \"redirect link\" input empty. Otherwise, redirect feature always works."
+
+#: 
+msgid "to_know_more_please_read"
+msgstr "To know more, please read"
+
+#: 
+msgid "this_page"
+msgstr "this page"
+
+#: 
+msgid "box_3_title"
+msgstr "Contact Us"
+
+#: 
+msgid "box_3_description"
+msgstr "Got a question? Get in touch now with Radix Works developers. We are always happy to help you!"
+
+#: 
+msgid "take_me"
+msgstr "Take Me"
+

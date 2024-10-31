@@ -1,0 +1,125 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Sebastian Wordpress\n"
+"Language: tr\n"
+
+#: 
+msgid "general_settings"
+msgstr "Genel Ayarlar"
+
+#: 
+msgid "sebastian_shortest_description"
+msgstr "Sebastian ziyaretçilerinize sürpriz yapabilmenizi sağlayan küçük ama eğlenceli bir eklentidir. Easter egg eklentisi de denebilir."
+
+#: 
+msgid "status"
+msgstr "Durum"
+
+#: 
+msgid "alert_message"
+msgstr "Uyarı Mesajı"
+
+#: 
+msgid "redirect_link"
+msgstr "Yönlendirme Linki"
+
+#: 
+msgid "active"
+msgstr "Aktif"
+
+#: 
+msgid "passive"
+msgstr "Pasif"
+
+#: 
+msgid "debug_mode_description"
+msgstr "Bu özelliği aktif ederseniz, nokta normalden daha büyük olacaktır."
+
+#: 
+msgid "dot_color"
+msgstr "Nokta Rengi"
+
+#: 
+msgid "debug_mode"
+msgstr "Hata Modu"
+
+#: 
+msgid "enabled"
+msgstr "Açık"
+
+#: 
+msgid "disabled"
+msgstr "Kapalı"
+
+#: 
+msgid "sebastian_logo_description"
+msgstr "Eğlenceli eklenti."
+
+#: 
+msgid "developed_by"
+msgstr "Geliştirici:"
+
+#: 
+msgid "welcome_title"
+msgstr "Sizi gördüğümüz için mutluyuz!"
+
+#: 
+msgid "welcome_text"
+msgstr "Sebastian, ziyaretçilerinize sürpriz yapabilmenizi sağlayan küçük ama eğlenceli bir eklentidir. Bu minik eklentiyi aktif ettiğinizde, kendisi gibi minik bir nokta -ki biz ona Sebastian diyoruz- Wordpress sitenizin sayfalarında belirecek ve o sayfalarda gezecek. Ziyaretçileriniz fare ile üzerine geldiğinde ise seçtiğiniz özellik (uyarı mesajı ya da yönlendirme) aktif olacak."
+
+#: 
+msgid "box_1_title"
+msgstr "Neler yapıyoruz?"
+
+#: 
+msgid "box_1_description"
+msgstr "Biz ekip olarak çoğunlukla web, mobil ve Wordpress projeleri üzerinde çalışmaktayız."
+
+#: 
+msgid "meet_radix_works_now"
+msgstr "Radix Works ile Tanışın"
+
+#: 
+msgid "box_2_title"
+msgstr "Sıkça Sorulan Sorular"
+
+#: 
+msgid "faq_1_title"
+msgstr "Sebastian'ı nasıl gizlerim?"
+
+#: 
+msgid "faq_1_description"
+msgstr "Bunu yapmak için iki yol var. İlk yok, ayarlar sayfasından durum özelliğini kapalı olarak değiştirin ve kaydedin. Diğer yol ise eklentiyi doğrudan pasif etmektir."
+
+#: 
+msgid "faq_2_title"
+msgstr "Hem uyarı mesajı hem de yönlendirme linki doluysa ne olur?"
+
+#: 
+msgid "faq_2_description"
+msgstr "Eğer uyarı mesajının gözükmesini istiyorsanız, lütfen yönlendirme linki alanını boş bırakın. Aksi halde yönlendirme özelliği her zaman aktif olacaktır."
+
+#: 
+msgid "to_know_more_please_read"
+msgstr "Daha fazlası için"
+
+#: 
+msgid "this_page"
+msgstr "bu sayfayı okuyun"
+
+#: 
+msgid "box_3_title"
+msgstr "İletişime Geçin"
+
+#: 
+msgid "box_3_description"
+msgstr "Sorunuz mu var? Hemen Radix Works geliştiricileri ile konuşun. Sizlere yardımcı olmaktan dolayı her zaman mutluluk duyacağız. "
+
+#: 
+msgid "take_me"
+msgstr "Götür Beni"
+
